@@ -42,20 +42,11 @@ var config = {
 			position: 'lower_third'
 		},
 		{
-			module: 'currentweather',
-			position: 'top_right',
-			config: {
-				location: 'New York',
-				locationID: '',  //ID from http://www.openweathermap.org
-				appid: 'YOUR_OPENWEATHER_API_KEY'
-			}
-		},
-		{
 			module: 'weatherforecast',
 			position: 'top_right',
 			header: 'Weather Forecast',
 			config: {
-				location: 'New York',
+				location: 'Seattle',
 				locationID: '5809844',  
 				appid: 'b784815699b8be1118a2c59042827b74'
 			}
