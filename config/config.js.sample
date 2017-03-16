@@ -56,8 +56,8 @@ var config = {
 			header: 'Weather Forecast',
 			config: {
 				location: 'New York',
-				locationID: '5128581',  //ID from http://www.openweathermap.org
-				appid: 'YOUR_OPENWEATHER_API_KEY'
+				locationID: '5809844',  
+				appid: 'b784815699b8be1118a2c59042827b74'
 			}
 		},
 		{
